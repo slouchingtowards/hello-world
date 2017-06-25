@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+I'm sure github is the coolest squiddy-cat ever!
